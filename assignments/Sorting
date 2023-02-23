@@ -1,0 +1,11 @@
+Merge sort
+Write a Java program to implement the Merge Sort algorithm. The program should take an integer array as input and output the sorted array.
+
+Quick Sort
+Write a Java program to implement the Quick Sort algorithm. The program should take an integer array as input and output the sorted array.
+
+Selection Sort
+Write a Java program to implement the Selection Sort algorithm. The program should take an integer array as input and output the sorted array.
+
+Insertion Sort
+Write a Java program to implement the Insertion Sort algorithm. The program should take an integer array as input and output the sorted array.
