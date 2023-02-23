@@ -1,0 +1,7 @@
+Write a Java program to check if two strings are anagrams. The program should take two strings as input and output whether they are anagrams or not.
+
+Palindrome Checker
+Write a Java program to check if a string is a palindrome. The program should take a string as input and output whether it is a palindrome or not.
+
+String Reversal
+Write a Java program to reverse a string. The program should take a string as input and output the reversed string.
