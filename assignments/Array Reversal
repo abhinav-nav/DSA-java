@@ -1,2 +1,10 @@
 Write a Java program to reverse an array of integers. The program should take an integer array as input and output the reversed array.
 
+Find the Second Smallest Element
+Write a Java program to find the second smallest element in an array of integers. The program should take an integer array as input and output the second smallest element.
+
+Remove Duplicates
+Write a Java program to remove duplicates from an array of integers. The program should take an integer array as input and output the array with duplicates removed.
+
+Rotate Array
+Write a Java program to rotate an array of integers by a given number of positions. The program should take an integer array and a rotation count as input and output the rotated array.
