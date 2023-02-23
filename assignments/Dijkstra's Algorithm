@@ -1,0 +1,1 @@
+Write a Java program to implement Dijkstra's Algorithm. The program should take a graph and a source node as input and output the shortest path from the source node to all other nodes in the graph.
