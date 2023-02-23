@@ -1,0 +1,1 @@
+Write a Java program to traverse a graph using Depth-First Search (DFS) and Breadth-First Search (BFS). The program should take a graph as input and output the traversal order.
