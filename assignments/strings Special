@@ -19,3 +19,17 @@ Write a Java program to find the first non-repeating character in a given string
 Write a Java program to check whether a given string is a valid palindrome or not.
 
 
+Write a program to find the longest common prefix in an array of strings.
+
+Given a string, find the longest substring that contains at most two distinct characters.
+
+Write a program to find the longest palindromic substring in a given string.
+
+Given two strings, write a program to find the longest common subsequence.
+
+Given a string and a dictionary of words, find the minimum number of deletions needed to make the string a concatenation of dictionary words.
+Given a string, find the length of the longest substring without repeating characters.
+Write a program to find the longest repeated substring in a given string.
+Given a string, find the minimum number of swaps required to make the string palindrome.
+Write a program to find the lexicographically smallest string that can be formed by removing at most one character from a given string.
+Given a string, write a program to find the maximum length of a substring that can be formed by repeating a single character.
