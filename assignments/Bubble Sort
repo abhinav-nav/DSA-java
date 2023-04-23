@@ -1,1 +1,9 @@
+Implement bubble sort algorithm to sort an array of integers in ascending order.
 
+Modify the bubble sort algorithm to sort an array of strings in ascending order.
+
+Write a function to sort an array of objects based on a specific property. For example, given an array of student objects with properties like name, age, and grade, sort the array based on the grade property in ascending order.
+
+Implement a modified bubble sort algorithm that stops sorting if the array is already sorted.
+
+Compare the time complexity of bubble sort with other sorting algorithms like quicksort and mergesort.
