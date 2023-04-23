@@ -1,1 +1,13 @@
 Write a Java program to implement a Queue data structure. The program should allow the user to enqueue and dequeue elements from the queue.
+
+difficulty level high 
+
+Implement a queue using an array in a programming language of your choice. Include methods for enqueue, dequeue, and peek.
+
+Implement a queue using a linked list in a programming language of your choice. Include methods for enqueue, dequeue, and peek.
+
+Write a function that uses two queues to implement a stack. Include methods for push, pop, and top.
+
+Implement a circular queue using an array in a programming language of your choice. Include methods for enqueue, dequeue, and peek.
+
+Write a program to simulate a queue at a supermarket checkout. Customers arrive randomly and join the queue, and each cashier takes a fixed amount of time to serve each customer. Calculate statistics such as average wait time and queue length.
